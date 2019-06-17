@@ -1,0 +1,23 @@
+
+#first {
+    background-color: green;
+}
+
+#second {
+    background-color: orange;
+}
+
+.box {
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+body {
+    background-color: gray;
+    box-shadow: 5px 5px;
+}
+button {
+    background-color: green;
+    border: rgb(0, 200, 150);
+}
